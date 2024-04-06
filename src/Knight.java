@@ -3,8 +3,8 @@ import java.util.List;
 
 public class Knight {
 
-    int x = 0;
-    int y = 0;
+    private int x = 0;
+    private int y = 0;
     // knight's position on board
 
     int[] xMovesLikeThis = new int[] {2,2,1,1,-1,-1,-2,-2};
